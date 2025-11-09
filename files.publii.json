@@ -1,0 +1,227 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "879dd1adb12b317bad2c73e10099a285"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/mrw",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/mrw/index.html",
+        "type": "file",
+        "md5": "9742300b18fa3aade845bc65068a2aeb"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "fe663b404d75e9bf9420994034b86a0b"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "dd387ba87a96b9bb4caf7daa0a448b36"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "8b871a931e006e4d277e7ba550f767b8"
+    },
+    {
+        "path": "learn-the-quran-online-a-modern-way-to-connect-with-allahs-words",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-the-quran-online-a-modern-way-to-connect-with-allahs-words/index.html",
+        "type": "file",
+        "md5": "b3f6cdc2f1385451ce826e5f23136b4b"
+    },
+    {
+        "path": "learn-the-quran-online-bringing-the-book-of-allah-closer-to-your-heart",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-the-quran-online-bringing-the-book-of-allah-closer-to-your-heart/index.html",
+        "type": "file",
+        "md5": "3d223ada425fadc56e7ec671ab2cf1be"
+    },
+    {
+        "path": "learn-the-quran-online-your-path-to-divine-knowledge-and-inner-peace",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-the-quran-online-your-path-to-divine-knowledge-and-inner-peace/index.html",
+        "type": "file",
+        "md5": "cf51643a334d0912ba4fa58b76be5519"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/mwqaa-mSHf.jpg",
+        "type": "file",
+        "md5": "a8992742f26a36e38fac82ce859083f0"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/mwqaa-mSHf-2xl.jpg",
+        "type": "file",
+        "md5": "1cf4bc2e7b82de1bcfc61aca720b17dc"
+    },
+    {
+        "path": "/media/website/responsive/mwqaa-mSHf-lg.jpg",
+        "type": "file",
+        "md5": "1cf4bc2e7b82de1bcfc61aca720b17dc"
+    },
+    {
+        "path": "/media/website/responsive/mwqaa-mSHf-md.jpg",
+        "type": "file",
+        "md5": "cd4487b907be4caaa2b59256c57afcd5"
+    },
+    {
+        "path": "/media/website/responsive/mwqaa-mSHf-sm.jpg",
+        "type": "file",
+        "md5": "630efcf7cfd8d27f3fcda15e79754bb1"
+    },
+    {
+        "path": "/media/website/responsive/mwqaa-mSHf-xl.jpg",
+        "type": "file",
+        "md5": "1cf4bc2e7b82de1bcfc61aca720b17dc"
+    },
+    {
+        "path": "/media/website/responsive/mwqaa-mSHf-xs.jpg",
+        "type": "file",
+        "md5": "d5a87cd1093575299a9d6bd2982a05bb"
+    },
+    {
+        "path": "quran-class-online-learn-reflect-and-grow-spiritually",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-class-online-learn-reflect-and-grow-spiritually/index.html",
+        "type": "file",
+        "md5": "ab09abd1e3b4d5f354a9ff84688a916e"
+    },
+    {
+        "path": "quran-class-online-the-easiest-way-to-learn-and-connect-with-the-words-of-allah",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-class-online-the-easiest-way-to-learn-and-connect-with-the-words-of-allah/index.html",
+        "type": "file",
+        "md5": "64c9461f1ae521feb156a0f11fd9fb6c"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "2b7bb6b9b842ff005255c5147bee7eb6"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "f18b1efbf443568b4847b0339626adff"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "61b5fe6e692c923429a4280e4a4bb1d1"
+    }
+]
